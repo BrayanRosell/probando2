@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623800096 source:c:\users\brayan rosell\escritorio\upn 2021-1\computacion grafica\picoro\main.cpp
+	<GL/glut.h>
+	<math.h>
+
